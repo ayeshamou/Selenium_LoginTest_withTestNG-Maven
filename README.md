@@ -14,7 +14,7 @@ Download Java - https://www.oracle.com/java/technologies/javase-jdk17-downloads.
 2. Apache Maven
 Download Maven - https://maven.apache.org/download.cgi
 
-An IDE (optional but recommended)
+3. An IDE (optional but recommended)
 Examples: IntelliJ IDEA, Eclipse, or VS Code with Java extensions
 
 ## Clone the Repository:
