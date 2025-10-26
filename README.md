@@ -19,8 +19,8 @@ Examples: IntelliJ IDEA, Eclipse, or VS Code with Java extensions
 
 ## Clone the Repository:
 ```bash
-git clone https://github.com/your-username/selenium-login-test.git
-cd selenium-login-test
+git clone https://github.com/ayeshamou/Selenium_LoginTest_withTestNG-Maven.git
+cd https://github.com/ayeshamou/Selenium_LoginTest_withTestNG-Maven.git
 ```
 
 (Or unzip the project if downloaded as a ZIP file.)
